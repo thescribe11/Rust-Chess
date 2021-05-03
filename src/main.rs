@@ -1,3 +1,5 @@
+mod engine;
+
 fn main() {
-    println!("Hello, world!");
+    println!("Scribe Chess - a terminal-based chess program\nCopyright (C) 2021 Adam Raschio");
 }
